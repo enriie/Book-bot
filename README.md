@@ -1,2 +1,2 @@
 # Book-bot
-Boot.dev Book Bot - Guided Project | my first project
+my first project
